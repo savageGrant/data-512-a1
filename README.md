@@ -2,6 +2,8 @@
 
 ### Author: Grant Savage
 
+# Project Structure
+
 ```
 data-512-a1
 │   README.md
