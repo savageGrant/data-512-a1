@@ -7,11 +7,10 @@ data-512-a1
 │   README.md
 │   LICENSE
 │   .gitignore
-|
 |   hcds-a1-data-curation.ipynb
+|
 └───data_clean
 │   │   en-wikipedia_traffic_firstyearmonth-lastyearmonth.csv
-│   │
 |
 └───data_raw
     │   apiname_accesstype_firstmonth-lastmonth.json
