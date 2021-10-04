@@ -21,7 +21,7 @@ data-512-a1
 
 
 # Goal of project
-To aquire, process and analyze a dataset of monthly traffic on English Wikipedia from January 1 2008 through September 2021.
+To aquire, process and analyze a dataset of monthly traffic on English Wikipedia from January 1st, 2008 through September 1st, 2021.
 
 # Data Sources
 
