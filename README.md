@@ -9,6 +9,7 @@ data-512-a1
 │   README.md
 │   LICENSE
 │   .gitignore
+|   Page_views_on_english_wikipedia.png
 |   hcds-a1-data-curation.ipynb
 |
 └───data_clean
